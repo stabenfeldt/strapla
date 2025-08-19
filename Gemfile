@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '5.0.0'
+gem 'rails', '7.1.5.2'
 ruby '2.1.2'
 
 gem 'slim'
@@ -30,8 +30,8 @@ gem 'bootstrap-generators', '~> 2.3', '>= 2.3.2'
 gem 'haml'
 gem 'haml-rails', '>= 0.5.3'
 gem 'bootstrap-datepicker-rails', '>= 1.1.1.10'
-gem 'wicked', '>= 1.0.2'
-gem 'activerecord-postgres-hstore'
+gem 'wicked', '>= 1.0.3'
+gem 'activerecord-postgres-hstore', '>= 0.7.8'
 gem 'pg'
 gem 'fog', '~> 1.3.1'
 gem 'color_routes'
